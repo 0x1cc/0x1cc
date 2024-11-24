@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @0x1cc, a researcher, a daydreamer, and also a builder
-- 🌱 I’m the author of [opML](https://github.com/hyperoracle/opml)
+- 👋 Hi, I’m KD.Conway, a researcher, a daydreamer, and also a builder
+- 🌱 I’m the author of [opML](https://github.com/ora-io/opml)
 - 👀 I’m interested in blockchain and AI
 - 📫 kd.cc@outlook.com
 
